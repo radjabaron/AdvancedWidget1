@@ -1,5 +1,6 @@
-# AdvancedWidget1
-<h3>1. Judul Aplikasi : AdvancedWidget1 </h3>
+# Advanced Widget 1
+
+<h3>1. Judul Aplikasi : Advanced Widget 1 </h3>
 <h3>2. Screenshoot : </h3>
 
 Screen Shoot 1
